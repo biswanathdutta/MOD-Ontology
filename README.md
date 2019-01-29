@@ -7,8 +7,10 @@ This project may be considered in some extent as a follow-up to the [OVM2 Ontolo
 
 # Availability 
 The MOD vocabulary is available in two ways: 
+
 (i) as a vocabulary specification document. The users can go through the speification page and pickup the required element(s) to describe their ontologies/ vocabularies. The vocabulary specification page can be accessed from https://www.isibang.ac.in/ns/mod/1.2/index.html 
-(ii) as a owl file. The MOD owl file can be downloaded and can be directly used to create KB consisting of metadata records of ontologies/vocabularies. The produced KB can be made available as a semantic LOD on the Web. 
+
+(ii) as a owl file. The MOD owl file (as available in GitHub) can be downloaded and can be directly used to create KB consisting of metadata records of ontologies/vocabularies. The produced KB can be made available as a semantic LOD on the Web. 
 
 # Historical background  
 
